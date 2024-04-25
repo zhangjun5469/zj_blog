@@ -1,1 +1,1 @@
-随便写点啥
+> 说啥都不如直接去看官网文档：[Docsify: 一个神奇的文档网站生成器](https://docsify.js.org/#/zh-cn/)
