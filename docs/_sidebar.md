@@ -8,3 +8,4 @@
 
 * leetcode
   * [双指针](/leetcode/双指针.md)
+  * [动态规划](/leetcode/动态规划.md)
